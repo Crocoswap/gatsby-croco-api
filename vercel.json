@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/api/v1/:match*",
-      "destination": "https://api.pancakeswap.finance/api/v1/:match*"
+      "destination": "https://api.crocoswap.org/api/v1/:match*"
     }
   ],
   "headers": [

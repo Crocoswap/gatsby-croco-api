@@ -2,12 +2,12 @@
     {
       "inputs": [
         {
-          "internalType": "contract CakeToken",
+          "internalType": "contract CrocoToken",
           "name": "_cake",
           "type": "address"
         },
         {
-          "internalType": "contract SyrupBar",
+          "internalType": "contract JungleBar",
           "name": "_syrup",
           "type": "address"
         },
@@ -165,7 +165,7 @@
       "name": "cake",
       "outputs": [
         {
-          "internalType": "contract CakeToken",
+          "internalType": "contract CrocoToken",
           "name": "",
           "type": "address"
         }
@@ -471,7 +471,7 @@
       "name": "syrup",
       "outputs": [
         {
-          "internalType": "contract SyrupBar",
+          "internalType": "contract JungleBar",
           "name": "",
           "type": "address"
         }
