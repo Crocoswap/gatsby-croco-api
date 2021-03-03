@@ -7,7 +7,7 @@
           "type": "address"
         },
         {
-          "internalType": "contract JungleBar",
+          "internalType": "contract DylusBar",
           "name": "_syrup",
           "type": "address"
         },
