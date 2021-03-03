@@ -1,9 +1,7 @@
 import Web3 from "web3";
 
 const BSC_NODE_RPC = [
-  "https://bsc-dataseed.binance.org/",
-  "https://bsc-dataseed1.defibit.io/",
-  "https://bsc-dataseed1.ninicoin.io/",
+  "https://rpcapi.fantom.network",
 ];
 
 export const getWeb3 = (): Web3 => {
